@@ -69,6 +69,37 @@ a:hover{
     width: 250px;
 }
 
+.select-news{
+    width: 180px;
+}
+.news-card {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+.news-image-container img {
+width: 100%;
+height: 200px; 
+object-fit: cover;
+}
+  
+.provider-container {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.provider-name {
+margin-left: 10px;
+}
+
+.show-more-button {
+margin-top: 20px;
+text-align: center;
+}
+
+
 .footer {
     background-color: #001529;
     display: flex;
