@@ -4,12 +4,12 @@ This is a web application built using React.js, Redux, JavaScript, and Ant Desig
 
 ## Technologies Used
 
-- **React.js**
-- **Redux**
-- **JavaScript**
-- **Coinranking API**
-- **Cryptocurrency News API**
-- **Ant Design**
+- React.js
+- Redux
+- JavaScript
+- Coinranking API
+- Cryptocurrency News API
+- Ant Design
 
 ## Features  
 
